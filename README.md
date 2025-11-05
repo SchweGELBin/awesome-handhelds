@@ -1,17 +1,24 @@
 # awesome-handhelds
 Awesome list of mobile/handheld devices
 
-- Those devices have good Linux/Custom ROM Support
-- Prices are calculated in Euro and based in Germany
----
-- ATTENTION: This list is far from complete and may contain incorrect information
+These devices have good Linux/Custom ROM Support
+
+- [Hardware](#hardware)
+  - [Community Supported Phones](#community-supported-phones)
+  - [Company Supported Phones](#company-supported-phones)
+  - [Handheld Cyberdecks](#handheld-cyberdecks)
+  - [Open Source Phones](#open-source-phones)
+  - [NetBooks / Pocket PCs](#netbooks--pocket-pcs)
+- [Software](#software)
+  - [Mobile Operating Systems](#mobile-operating-systems)
+  - [Mobile Shells](#mobile-shells)
 
 ## Hardware
 ### Community Supported Phones
-| Brand   | Name | CodeName  | SoC    | Price | Release |
-| -----   | ---- | --------  | ---    | ----- | ------- |
-| OnePlus | 6    | enchilada | sdm845 | 230   | 2018    |
-| OnePlus | 6T   | fajita    | sdm845 | 250   | 2018    |
+| Brand   | Name | CodeName  | SoC    | Website                                            | Release |
+| -----   | ---- | --------  | ---    | -------                                            | ------- |
+| OnePlus | 6    | enchilada | sdm845 | [OnePlus](https://www.oneplus.com/global/6/specs)  | 2018    |
+| OnePlus | 6T   | fajita    | sdm845 | [OnePlus](https://www.oneplus.com/global/6t/specs) | 2018    |
 ---
 TODO:
 - FairPhone...
@@ -20,10 +27,10 @@ TODO:
 - https://wiki.postmarketos.org/wiki/Devices
 
 ### Company Supported Phones
-| Brand  | Name          | CodeName     | SoC     | Price   | Release |
-| -----  | ----          | --------     | ---     | -----   | ------- |
-| Pine64 | PinePhone     | pinephone    | A53     | 215;350 | 2020    |
-| Pine64 | PinePhone Pro | pinephonepro | RK3399S | 555;600 | 2022    |
+| Brand  | Name          | CodeName     | SoC     | Website                                             | Release |
+| -----  | ----          | --------     | ---     | -------                                             | ------- |
+| Pine64 | PinePhone     | pinephone    | A53     | [Pine64](https://pine64.org/devices/pinephone/)     | 2020    |
+| Pine64 | PinePhone Pro | pinephonepro | RK3399S | [Pine64](https://pine64.org/devices/pinephone_pro/) | 2022    |
 ---
 TODO:
 - Volla Phone...
@@ -33,10 +40,10 @@ TODO:
 - SHIFTphone...?
 
 ### Handheld Cyberdecks
-| Brand     | Name         | SoC                   | Website                                                             | Shop                                                                 | Price               | Release |
-| -----     | ----         | ---                   | -------                                                             | ----                                                                 | -----               | ------- |
-| clockwork | uConsole     | A04;A06;CM4;(CM5);R01 | [clockworkpi](https://clockworkpi.com/uconsole)                     | [clockworkpi](https://www.clockworkpi.com/shop/)                     | 165;215;245;255;145 | ?       |
-| ZitaoTech | HackBerry Pi | CM5;Pi5;PiZero2W      | [GitHub](https://github.com/ZitaoTech?tab=repositories&q=Hackberry) | [elecrow](https://www.elecrow.com/catalogsearch/result/?q=Hackberry) | 168+SoC             | ?       |
+| Brand     | Name         | SoC                   | Website                                                             | Release |
+| -----     | ----         | ---                   | -------                                                             | ------- |
+| clockwork | uConsole     | A04;A06;CM4;(CM5);R01 | [clockworkpi](https://clockworkpi.com/uconsole)                     | ?       |
+| ZitaoTech | HackBerry Pi | CM5;Pi5;PiZero2W      | [GitHub](https://github.com/ZitaoTech?tab=repositories&q=Hackberry) | ?       |
 ---
 TODO:
 - Pilet 5 / Pilet 7
@@ -44,22 +51,22 @@ TODO:
 - Mecha Comet?
 
 ### Open Source Phones
-| Brand        | Name        | SoC     | Website                                                          | Shop     | Price | Release |
-| -----        | ----        | ---     | -------                                                          | ----     | ----- | ------- |
-| Liberux      | Nexx        | RK3588S | [Liberux](https://liberux.net/)                                  | 790;1300 | ?     | Concept |
-| AlterniTech  | OSM-Phone   | ?       | [GitHub](https://github.com/DansDesigns/OSM-Phone)               | ?        | ?     | Concept |
-| OURS Project | OurPhone v2 | CM4     | [GitHub](https://github.com/evanman83/OURS-project/tree/main/v2) | ?        | ?     | Concept |
-| vElectronics | Spirit      | ?       | [GitHub](https://github.com/V3lectronics/SPIRIT)                 | ?        | ?     | ?       |
+| Brand        | Name        | SoC     | Website                                                          | Release |
+| -----        | ----        | ---     | -------                                                          | ------- |
+| Liberux      | Nexx        | RK3588S | [Liberux](https://liberux.net/)                                  | Concept |
+| AlterniTech  | OSM-Phone   | ?       | [GitHub](https://github.com/DansDesigns/OSM-Phone)               | Concept |
+| OURS Project | OurPhone v2 | CM4     | [GitHub](https://github.com/evanman83/OURS-project/tree/main/v2) | Concept |
+| vElectronics | Spirit      | ?       | [GitHub](https://github.com/V3lectronics/SPIRIT)                 | ?       |
 
 ### NetBooks / Pocket PCs
-| Brand | Name          | Website                     | Shop                                                       | Price       | Release |
-| ----- | ----          | -------                     | ----                                                       | -----       | ------- |
-| MNT   | Pocket Reform | [mntre](https://mntre.com/) | [mntre](https://shop.mntre.com/products/mnt-pocket-reform) | 1100+SD/SSD | 2024    |
+| Brand | Name          | Website                     | Release |
+| ----- | ----          | -------                     | ------- |
+| MNT   | Pocket Reform | [mntre](https://mntre.com/) | 2024    |
 ---
 TODO:
-| GPD | Pocket 4  | ? | ? | ? | ? |
-| GPD | MicroPC 2 | ? | ? | ? | ? |
-| GPD | WIN Mini  | ? | ? | ? | ? |
+GPD Pocket 4
+GPD MicroPC 2
+GPD WIN Mini
 
 ## Software
 ### Mobile Operating Systems
