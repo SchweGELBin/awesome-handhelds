@@ -69,14 +69,12 @@ TODO:
 ### NetBooks / Pocket PCs
 **[`Back to index`](#awesome-handhelds)**
 
-| Brand | Name          | SoC    | Website                                                    | Release |
-| ----- | ----          | ------ | -------                                                    | ------- |
-| MNT   | Pocket Reform | RK3588 | [mntre](https://shop.mntre.com/products/mnt-pocket-reform) | 2024    |
----
-TODO:
-- GPD Pocket 4
-- GPD MicroPC 2
-- GPD WIN Mini
+| Brand | Name          | SoC                | Website                                                    | Release |
+| ----- | ----          | ------             | -------                                                    | ------- |
+| MNT   | Pocket Reform | RK3588             | [MNTRE](https://shop.mntre.com/products/mnt-pocket-reform) | 2024    |
+| GPD   | Pocket 4      | AMD Ryzen + Radeon | [GPD](https://gpd.hk/gpdpocket4)                           | 2024    |
+| GPD   | MicroPC 2     | Intel N250         | [GPD](https://gpd.hk/gpdmicropc2345345345)                 | 2025    |
+| GPD   | WIN Mini      | AMD Ryzen + Radeon | [GPD](https://gpd.hk/gpdwinmini2025)                       | 2025    |
 
 ## Software
 ### Mobile Operating Systems
