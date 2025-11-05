@@ -43,7 +43,7 @@ TODO:
 | Brand     | Name         | SoC                   | Website                                                             | Release |
 | -----     | ----         | ---                   | -------                                                             | ------- |
 | clockwork | uConsole     | A04;A06;CM4;(CM5);R01 | [clockworkpi](https://clockworkpi.com/uconsole)                     | ?       |
-| ZitaoTech | HackBerry Pi | CM5;Pi5;PiZero2W      | [GitHub](https://github.com/ZitaoTech?tab=repositories&q=Hackberry) | ?       |
+| ZitaoTech | HackBerry Pi | CM5;Pi5;PiZero2W;Pi4B | [GitHub](https://github.com/ZitaoTech?tab=repositories&q=Hackberry) | ?       |
 ---
 TODO:
 - Pilet 5 / Pilet 7
@@ -59,14 +59,14 @@ TODO:
 | vElectronics | Spirit      | ?       | [GitHub](https://github.com/V3lectronics/SPIRIT)                 | ?       |
 
 ### NetBooks / Pocket PCs
-| Brand | Name          | Website                     | Release |
-| ----- | ----          | -------                     | ------- |
-| MNT   | Pocket Reform | [mntre](https://mntre.com/) | 2024    |
+| Brand | Name          | Website                                                    | Release |
+| ----- | ----          | -------                                                    | ------- |
+| MNT   | Pocket Reform | [mntre](https://shop.mntre.com/products/mnt-pocket-reform) | 2024    |
 ---
 TODO:
-GPD Pocket 4
-GPD MicroPC 2
-GPD WIN Mini
+- GPD Pocket 4
+- GPD MicroPC 2
+- GPD WIN Mini
 
 ## Software
 ### Mobile Operating Systems
