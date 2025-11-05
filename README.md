@@ -64,14 +64,14 @@ TODO:
 | Liberux      | Nexx        | RK3588S | [Liberux](https://liberux.net/)                                  | Concept |
 | AlterniTech  | OSM-Phone   | ?       | [GitHub](https://github.com/DansDesigns/OSM-Phone)               | Concept |
 | OURS Project | OurPhone v2 | CM4     | [GitHub](https://github.com/evanman83/OURS-project/tree/main/v2) | Concept |
-| vElectronics | Spirit      | ?       | [GitHub](https://github.com/V3lectronics/SPIRIT)                 | ?       |
+| vElectronics | Spirit      | ?       | [GitHub](https://github.com/V3lectronics/SPIRIT)                 | Concept |
 
 ### NetBooks / Pocket PCs
 **[`Back to index`](#awesome-handhelds)**
 
-| Brand | Name          | Website                                                    | Release |
-| ----- | ----          | -------                                                    | ------- |
-| MNT   | Pocket Reform | [mntre](https://shop.mntre.com/products/mnt-pocket-reform) | 2024    |
+| Brand | Name          | SoC    | Website                                                    | Release |
+| ----- | ----          | ------ | -------                                                    | ------- |
+| MNT   | Pocket Reform | RK3588 | [mntre](https://shop.mntre.com/products/mnt-pocket-reform) | 2024    |
 ---
 TODO:
 - GPD Pocket 4
