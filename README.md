@@ -59,12 +59,12 @@ TODO:
 ### Open Source Phones
 **[`Back to index`](#awesome-handhelds)**
 
-| Brand        | Name        | SoC     | Website                                                          | Release |
-| -----        | ----        | ---     | -------                                                          | ------- |
-| Liberux      | Nexx        | RK3588S | [Liberux](https://liberux.net/)                                  | Concept |
-| AlterniTech  | OSM-Phone   | ?       | [GitHub](https://github.com/DansDesigns/OSM-Phone)               | Concept |
-| OURS Project | OurPhone v2 | CM4     | [GitHub](https://github.com/evanman83/OURS-project/tree/main/v2) | Concept |
-| vElectronics | Spirit      | ?       | [GitHub](https://github.com/V3lectronics/SPIRIT)                 | Concept |
+| Brand        | Name        | SoC      | Website                                                          | Release |
+| -----        | ----        | ---      | -------                                                          | ------- |
+| Liberux      | Nexx        | RK3588S  | [Liberux](https://liberux.net/)                                  | Concept |
+| AlterniTech  | OSM-Phone   | CM4;CM5+ | [GitHub](https://github.com/DansDesigns/OSM-Phone)               | Concept |
+| OURS Project | OurPhone v2 | CM4      | [GitHub](https://github.com/evanman83/OURS-project/tree/main/v2) | Concept |
+| vElectronics | Spirit      | CM5      | [GitHub](https://github.com/V3lectronics/SPIRIT)                 | Concept |
 
 ### NetBooks / Pocket PCs
 **[`Back to index`](#awesome-handhelds)**
