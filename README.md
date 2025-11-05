@@ -46,10 +46,10 @@ TODO:
 ### Handheld Cyberdecks
 **[`Back to index`](#awesome-handhelds)**
 
-| Brand     | Name         | SoC                   | Website                                                             | Release |
-| -----     | ----         | ---                   | -------                                                             | ------- |
-| clockwork | uConsole     | A04;A06;CM4;(CM5);R01 | [clockworkpi](https://clockworkpi.com/uconsole)                     | ?       |
-| ZitaoTech | HackBerry Pi | CM5;Pi5;PiZero2W;Pi4B | [GitHub](https://github.com/ZitaoTech?tab=repositories&q=Hackberry) | ?       |
+| Brand     | Name         | SoC                   | Website                                                             | Release   |
+| -----     | ----         | ---                   | -------                                                             | -------   |
+| clockwork | uConsole     | A04;A06;CM4;(CM5);R01 | [clockworkpi](https://clockworkpi.com/uconsole)                     | 2023      |
+| ZitaoTech | HackBerry Pi | CM5;Pi5;PiZero2W;Pi4B | [GitHub](https://github.com/ZitaoTech?tab=repositories&q=Hackberry) | 2024,2025 |
 ---
 TODO:
 - Pilet 5 / Pilet 7
