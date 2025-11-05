@@ -15,6 +15,8 @@ These devices have good Linux/Custom ROM Support
 
 ## Hardware
 ### Community Supported Phones
+**[`Back to index`](#awesome-handhelds)**
+
 | Brand   | Name | CodeName  | SoC    | Website                                            | Release |
 | -----   | ---- | --------  | ---    | -------                                            | ------- |
 | OnePlus | 6    | enchilada | sdm845 | [OnePlus](https://www.oneplus.com/global/6/specs)  | 2018    |
@@ -27,6 +29,8 @@ TODO:
 - https://wiki.postmarketos.org/wiki/Devices
 
 ### Company Supported Phones
+**[`Back to index`](#awesome-handhelds)**
+
 | Brand  | Name          | CodeName     | SoC     | Website                                             | Release |
 | -----  | ----          | --------     | ---     | -------                                             | ------- |
 | Pine64 | PinePhone     | pinephone    | A53     | [Pine64](https://pine64.org/devices/pinephone/)     | 2020    |
@@ -40,6 +44,8 @@ TODO:
 - SHIFTphone...?
 
 ### Handheld Cyberdecks
+**[`Back to index`](#awesome-handhelds)**
+
 | Brand     | Name         | SoC                   | Website                                                             | Release |
 | -----     | ----         | ---                   | -------                                                             | ------- |
 | clockwork | uConsole     | A04;A06;CM4;(CM5);R01 | [clockworkpi](https://clockworkpi.com/uconsole)                     | ?       |
@@ -51,6 +57,8 @@ TODO:
 - Mecha Comet?
 
 ### Open Source Phones
+**[`Back to index`](#awesome-handhelds)**
+
 | Brand        | Name        | SoC     | Website                                                          | Release |
 | -----        | ----        | ---     | -------                                                          | ------- |
 | Liberux      | Nexx        | RK3588S | [Liberux](https://liberux.net/)                                  | Concept |
@@ -59,6 +67,8 @@ TODO:
 | vElectronics | Spirit      | ?       | [GitHub](https://github.com/V3lectronics/SPIRIT)                 | ?       |
 
 ### NetBooks / Pocket PCs
+**[`Back to index`](#awesome-handhelds)**
+
 | Brand | Name          | Website                                                    | Release |
 | ----- | ----          | -------                                                    | ------- |
 | MNT   | Pocket Reform | [mntre](https://shop.mntre.com/products/mnt-pocket-reform) | 2024    |
@@ -70,6 +80,8 @@ TODO:
 
 ## Software
 ### Mobile Operating Systems
+**[`Back to index`](#awesome-handhelds)**
+
 - [Droidian](https://droidian.org/)
 - [Fedora KDE Mobile](https://fedoraproject.org/spins/kde-mobile/)
 - [Kali Linux NetHunter](https://nethunter.kali.org/)
@@ -80,6 +92,8 @@ TODO:
 - [Ubuntu Touch](https://www.ubuntu-touch.io/)
 
 ### Mobile Shells
+**[`Back to index`](#awesome-handhelds)**
+
 - [Gnome Mobile](https://gitlab.gnome.org/verdre/gnome-shell-mobile)
 - [Phosh](https://phosh.mobi/)
 - [Plasma Mobile](https://plasma-mobile.org/)
